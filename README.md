@@ -40,7 +40,7 @@ The input Excel file should contain three columns:
 ## Usage
 Run the Script: Execute the script by running:
 ```bash
-python ssh_command_executor.py
+python Ping_and_Command.py
 ```
 **Select Input File:** Click the Browse button to select the Excel file with device details.
 
