@@ -72,6 +72,10 @@ The GUI has the following elements:
 
 **Status Label:** Displays a moving dot animation during execution to indicate progress.
 
+**Success vs Failure out of Total:** Displays the number of Successful and Failed out of the Total of IP's listed in the input file.
+
+**Close Button:** Terminate the program.
+
 
 
 ## Example Input Excel
@@ -85,7 +89,14 @@ Here is an example of the required format for the input Excel file:
 ## Screenshot
 
 ### GUI prompting for information:
-<img width="287" alt="Ping and command Screenshot" src="https://github.com/user-attachments/assets/e635fcdb-5f59-4f3b-9a7d-c36537f17b2c">
+<img width="290" alt="Ping and command Screenshot 3" src="https://github.com/user-attachments/assets/e9e50bc2-6ced-4194-8b67-b67a399e180e">
+
+### GUI after Execution Completed
+Show:
+Success | Failure out of Total
+
+<img width="288" alt="Ping and command Screenshot 2" src="https://github.com/user-attachments/assets/9792b008-7bba-4747-ae3d-ebb8da66e789">
+
 
 
 
